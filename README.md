@@ -1,6 +1,6 @@
 # Orbit Limit
 
-##About the project 
+## About the project 
 Orbit Limit is a rocket project run by the Youtube Channel Orbit Limit. The project aims to create smarter model rockets that provide more easily readable data every flight and have the community's technology free for use. The project was designed to run on a [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/ "Raspberry Pi Zero W") but can run on any device that can create its own wifi access point and run python programs.  
 ![](https://i.imgur.com/mCXvZXM.png)
 
